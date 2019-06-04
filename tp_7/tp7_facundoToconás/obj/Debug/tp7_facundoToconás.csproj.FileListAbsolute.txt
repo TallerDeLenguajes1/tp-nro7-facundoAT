@@ -1,0 +1,7 @@
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\bin\Debug\tp7_facundoToconás.exe.config
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\bin\Debug\tp7_facundoToconás.exe
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\bin\Debug\tp7_facundoToconás.pdb
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\obj\Debug\tp7_facundoToconás.csprojAssemblyReference.cache
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\obj\Debug\tp7_facundoToconás.csproj.CoreCompileInputs.cache
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\obj\Debug\tp7_facundoToconás.exe
+C:\repositorios\repositorio7\tp_7\tp7_facundoToconás\obj\Debug\tp7_facundoToconás.pdb
